@@ -1,0 +1,7 @@
+/nbproject/private/
+/access_log
+/error_log
+/vendor/
+/config/autoload/local.php
+/composer.lock
+
